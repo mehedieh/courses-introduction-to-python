@@ -1310,5 +1310,5 @@ Ex().check_correct(
     )
 )
 
-success_msg("Wonderful! You were right and the disbelievers were wrong! This exercise marks the end of the Intro to Python for Data Science course. See you in another course!")
+success_msg("Wonderful! You were right and the disbelievers were wrong! This exercise marks the end of the Intro to Python for Data Science course. See you in another course!<br><br><i> Don't forget to download the <a href='https://datacamp-community-prod.s3.amazonaws.com/e30fbcd9-f595-4a9f-803d-05ca5bf84612'>Cheat Sheet</a> for this course to keep track of what you've learned today! <i>")
 ```

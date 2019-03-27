@@ -43,6 +43,8 @@ my_list = ["my", "list", a, b]
 
 After measuring the height of your family, you decide to collect some information on the house you're living in. The areas of the different parts of your house are stored in separate variables for now, as shown in the script.
 
+_By the way, if you haven't downloaded it already, check out the [python basics Cheat Sheet](link). It includes an overview of the most important concepts, functions and method and might come in handy if you ever need a quick refresher!_	
+
 `@instructions`
 - Create a list, `areas`, that contains the area of the hallway (`hall`), kitchen (`kit`), living room (`liv`), bedroom (`bed`) and bathroom (`bath`), in this order. Use the predefined variables.
 - Print `areas` with the [`print()`](https://docs.python.org/3/library/functions.html#print) function.
