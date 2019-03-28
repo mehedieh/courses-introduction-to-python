@@ -40,7 +40,7 @@ You can hit _Run Code_ and _Submit Answer_ as often as you want. If you're stuck
 
 You can also use the IPython Shell interactively by simply typing commands and hitting Enter. When you work in the shell directly, your code will not be checked for correctness so it is a great way to experiment.
 
-_This course introduces a lot of new concepts, so if you ever need a quick refresher, download the [python basics Cheat Sheet](https://datacamp-community-prod.s3.amazonaws.com/e30fbcd9-f595-4a9f-803d-05ca5bf84612) and keep it handy!_	
+_This course introduces a lot of new concepts, so if you ever need a quick refresher, download the [python basics Cheat Sheet](https://datacamp-community-prod.s3.amazonaws.com/e30fbcd9-f595-4a9f-803d-05ca5bf84612) and keep it handy!_
 
 `@instructions`
 - Experiment in the IPython Shell; type `5 / 8`, for example.
