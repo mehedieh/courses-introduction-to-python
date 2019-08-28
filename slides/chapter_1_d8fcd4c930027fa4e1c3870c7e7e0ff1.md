@@ -326,7 +326,7 @@ disable_transition: true
 ```
 
 `@part1`
-![im_6.png](https://assets.datacamp.com/production/repositories/288/datasets/10d02b979555223b15a058ce7d70b64176d70efd/im_6.png)
+![im_6.png](https://assets.datacamp.com/production/repositories/288/datasets/cacf5f3a4407778e66d76faab01869be914346c4/mobile_2_7_2.PNG = 35)
 
 `@script`
 and rerun the script.
@@ -342,7 +342,7 @@ disable_transition: true
 ```
 
 `@part1`
-![im_7.png](https://assets.datacamp.com/production/repositories/288/datasets/1194f04fed22a8350de661431655c15d2c7ff6bb/im_7.png)
+![im_7.png](https://assets.datacamp.com/production/repositories/288/datasets/4b38b8f84d7eb7a4fc8956bb3a6af4033a95b658/mobile_2_7.PNG = 35)
 
 `@script`
 This time, the same output as before is generated, great! Putting your code in Python scripts instead of manually retyping every step interactively will help you to keep structure and avoid retyping everything over and over again if you want to make a change; you simply make the change in the script, and rerun the entire thing.
@@ -357,7 +357,7 @@ key: 693ba1cd14
 ```
 
 `@part1`
-![ch_1_1_slides.001.png](https://assets.datacamp.com/production/repositories/288/datasets/f70371d1d3dcc8eb318c30132c95a6189e85726a/ch_1_1_slides.001.png)
+![ch_1_1_slides.001.png](https://assets.datacamp.com/production/repositories/288/datasets/b27d720dd9d1113e12950134eab071cc2e60cb0c/IMG_1786.PNG)
 
 `@script`
 Now that you've got an idea about different ways of working with Python, I suggest you head over to the exercises.
@@ -373,7 +373,7 @@ disable_transition: true
 ```
 
 `@part1`
-![ch_1_1_slides.002.png](https://assets.datacamp.com/production/repositories/288/datasets/cb6182b201754f60f34c183b1fc90fcacfa2eaf3/ch_1_1_slides.002.png)
+![ch_1_1_slides.002.png](https://assets.datacamp.com/production/repositories/288/datasets/4acc9ee51c7a66a777781c638b745db375f221a8/mobile_2_1.PNG)
 
 `@script`
 Use the IPython Shell for experimentation,
@@ -389,7 +389,7 @@ disable_transition: true
 ```
 
 `@part1`
-![ch_1_1_slides.003.png](https://assets.datacamp.com/production/repositories/288/datasets/358eec4f33b609c324279c6b0c51017c3d598d86/ch_1_1_slides.003.png)
+![ch_1_1_slides.003.png](https://assets.datacamp.com/production/repositories/288/datasets/1b44ea76910eb712757d38d2f3d554511b533ef6/mobile_2_4.PNG)
 
 `@script`
 and use the Python script editor to code the actual answer. If you click Submit Answer, your script will be executed and checked for correctness.
